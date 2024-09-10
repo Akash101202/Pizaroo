@@ -1,5 +1,5 @@
 import { useSelector } from "react-redux";
-import { Link, useSearchParams } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { getTotalPrice, getTotalQuatity } from "./cartSlice";
 import { formatCurrency } from "../../utils/helpers";
 
