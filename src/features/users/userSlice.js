@@ -24,7 +24,7 @@ import { act } from "react";
 // }
 
 const initialState = {
-  username: "Akash",
+  username: "",
 };
 
 const userSlice = createSlice({
