@@ -90,30 +90,6 @@ Pizaroo is a dynamic and responsive pizza-ordering application built with Advanc
    npm start
    ```
 
-## Screenshots
-
-### Home Page
-![Home Page](#)
-
-### Pizza Customization
-![Customization](#)
-
-### Cart & Checkout
-![Cart and Checkout](#)
-
-### Search by Order ID
-![Order Search](#)
-
-### Location Geocoding
-![Location](#)
-
-### Admin Dashboard
-![Admin Dashboard](#)
-
-## Contributing
-
-All contributions are welcome! Feel free to submit a pull request or open an issue to discuss ideas.
-
 ## License
 
 This project is licensed under the MIT License.
