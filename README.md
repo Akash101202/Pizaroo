@@ -1,7 +1,7 @@
 
 # Pizaroo https://pizaroo.vercel.app
 
-Pizaroo is a dynamic and responsive pizza-ordering application built with the MERN stack. Users can explore a variety of pizzas, customize their orders, and track their location during delivery.
+Pizaroo is a dynamic and responsive pizza-ordering application built with Advance React Concepts with React-Server-Side-Rendering , Redux-ToolKit and Thunks. Users can explore a variety of pizzas, customize their orders, and track their location during delivery.
 
 ## Features
 
