@@ -5,11 +5,11 @@ import Logo from "../assets/logo.png";
 
 function Header() {
   return (
-    <header className="flex h-16 items-center justify-between border-b border-stone-200 bg-yellow-400 px-4 py-3 uppercase sm:px-6">
+    <header className="mb-4 flex h-16 items-center justify-between rounded-b-xl border-b border-stone-200 bg-cyan-600 px-4 py-3 uppercase sm:px-6">
       <Link className="flex">
         <img src={Logo} alt="" className="h-[100px] w-[100px] object-contain" />
       </Link>
-      <Link to="/" className="tracking-widest">
+      <Link to="/" className="font-bold tracking-widest text-stone-100">
         Pizaroooo
       </Link>
 
